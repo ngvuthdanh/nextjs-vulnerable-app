@@ -1,2 +1,3 @@
 # nextjs-vulnerable-app
-npm run dev
+cd vulnerable-app
+npm install
